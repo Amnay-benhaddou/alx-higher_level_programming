@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const lang = 'C is fun';
 
 if (isNaN(process.argv[2])) {
